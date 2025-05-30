@@ -20,7 +20,7 @@
       "ms-toolsai.jupyter"
       "ms-python.python"
       "krish-r.vscode-toggle-terminal"
-      "rooveterinaryinc.roo-cline"
+      "RooVeterinaryInc.roo-cline"
     ];
     workspace = {
       # Runs when a workspace is first created with this `dev.nix` file
